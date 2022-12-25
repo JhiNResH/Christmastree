@@ -1,7 +1,3 @@
-git remote add origin https://github.com/JhiNResH/Christmastree.git
-git branch -M main
-git push -u origin main
-
 from turtle import *
 from random import randint
  
