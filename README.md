@@ -1,2 +1,2 @@
 # Christmastree
-Trying turtle and randint to draw a Christmas card
+Practicing turtle and randint to nake a simple Christmas card
